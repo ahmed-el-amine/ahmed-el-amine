@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/a7med9" target="_blank">
+      <a href="https://www.linkedin.com/in/ahmed-el-amine" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
       </a>
     </td>
